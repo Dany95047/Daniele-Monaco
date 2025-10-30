@@ -53,11 +53,6 @@ With hands-on experience in **SIEM tools** (Splunk, ELK, Azure Sentinel), I’ve
 
 ---
 
-## 📈 GitHub Stats  
-![Daniele's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniele-monaco&show_icons=true&theme=radical)
-
----
-
 ## 🔗 Connect With Me  
 📫 [Email Me](mailto:dany95047@gmail.com)  
 💼 [LinkedIn](https://linkedin.com/in/daniele-monaco-5a61611ab)
