@@ -33,8 +33,6 @@ With hands-on experience in **SIEM tools** (Splunk, ELK, Azure Sentinel), I’ve
 
 ### 🖥️ SIEM & Monitoring  
 ![Splunk](https://img.shields.io/badge/Splunk-000000?logo=splunk&logoColor=white)  
-![ELK Stack](https://img.shields.io/badge/ELK%20Stack-005571?logo=elastic&logoColor=white)  
-![Azure Sentinel](https://img.shields.io/badge/Azure%20Sentinel-0078D4?logo=microsoftazure&logoColor=white)
 
 ### 💻 Scripting & Automation  
 ![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54)  
@@ -43,7 +41,7 @@ With hands-on experience in **SIEM tools** (Splunk, ELK, Azure Sentinel), I’ve
 ### ⚙️ Frameworks & Standards  
 - MITRE ATT&CK  
 - Cyber Kill Chain  
-- ISO27001, ISAE3000  
+- ISO27001, NIST SP 800-53
 - Threat Intelligence  
 
 ---
@@ -52,16 +50,6 @@ With hands-on experience in **SIEM tools** (Splunk, ELK, Azure Sentinel), I’ve
 - 🛡️ **CompTIA Security+** (in progress)  
 - 🔍 **TryHackMe SOC Analyst Path** (ongoing)  
 - 🧩 **TryHackMe Junior Penetration Tester Path** (completed, 2023)  
-
----
-
-## 🧪 Featured Projects  
-| Project | Description | Tools |
-|----------|--------------|-------|
-| **SIEM Log Analysis Lab** | Simulated security incident detection using Splunk/ELK with real-time log correlation | Splunk, ELK, Python |
-| **Network Packet Investigation** | Detected malicious traffic and documented Indicators of Compromise (IOCs) | Wireshark, Kali Linux |
-| **Vulnerability Assessment Report** | Conducted Nessus-based vulnerability scanning and mitigation planning | Nessus, Bash |
-| **TryHackMe Labs** | Completed SOC Analyst and Pentester learning paths with incident triage simulations | TryHackMe, Splunk |
 
 ---
 
